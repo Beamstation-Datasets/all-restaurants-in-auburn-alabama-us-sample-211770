@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ff851ac8-1836-4c5a-b5bb-355300523207",
+  "export_job_id": "f0c4fca4-51f3-4c25-aa0e-e9e7710d3779",
   "id_short": 211770,
-  "published_at": "2026-04-17T19:12:02Z",
+  "published_at": "2026-04-21T19:10:47Z",
   "repo_name": "all-restaurants-in-auburn-alabama-us-sample-211770",
   "sample_asset_name": "beamstation_211770_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/211770/beamstation_211770_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "453b0f4d8d2d2876975aca04841ee9b58d8ffff9d51821f57c2b21f398a53b18",
-  "sample_size_bytes": 104076,
-  "total_records": 256
+  "sample_records": 19,
+  "sample_sha256": "21a35039791f54545ec666f8a744ce39363c061ec4b986670ce9be90b6ac1d5e",
+  "sample_size_bytes": 78641,
+  "total_records": 195
 }
