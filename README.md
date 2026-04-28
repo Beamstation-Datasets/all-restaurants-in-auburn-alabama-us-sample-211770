@@ -1,6 +1,6 @@
 # All Restaurants in Auburn, Alabama, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `211770` |
 | Location | Auburn |
 | Category | Restaurants |
-| Full dataset size | 195 records |
-| Free sample size | 19 records (9.74%) |
-| Last export | 2026-04-21T14:49:17.553844+00:00 |
+| Full dataset size | 261 records |
+| Free sample size | 26 records (9.96%) |
+| Last export | 2026-04-28T15:42:53.353698+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-auburn-alabama-us-sample-211770/releases/download/sample-latest/beamstation_211770_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
